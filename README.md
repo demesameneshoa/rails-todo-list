@@ -1,2 +1,24 @@
-# rails-todo-list
-This app is a todo list app created using ruby on rails where a user can signup, login and created their own todo lists, manage them and mark them as completed.
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
